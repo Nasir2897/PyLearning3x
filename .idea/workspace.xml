@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f362d832-afce-4966-9f73-17c6802b026a" name="Changes" comment="Initial commit" />
+    <list default="true" id="f362d832-afce-4966-9f73-17c6802b026a" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/../Python 3x learning/.idea/Py3x Class NS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python 3x learning/.idea/Python 3x learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python 3x learning/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python 3x learning/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python 3x learning/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python 3x learning/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python 3x learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python 3x learning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python 3x learning/Python/2) 03 Jun 2024 - Roadmap Explaination.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python 3x learning/Python/2) 03 Jun 2024 - Roadmap Explaination.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Py3x Class NS" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python 3x learning" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -46,7 +52,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Py3x Class NS" />
+      <module name="Python 3x learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +74,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Py3x Class NS" />
+      <module name="Python 3x learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +86,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="Py3x Class NS" />
+      <module name="Python 3x learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +103,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="Py3x Class NS" />
+      <module name="Python 3x learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +120,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="Py3x Class NS" />
+      <module name="Python 3x learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +135,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Py3x Class NS" />
+      <module name="Python 3x learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717596592913</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717596697639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717596697639</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
