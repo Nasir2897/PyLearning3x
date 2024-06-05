@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f362d832-afce-4966-9f73-17c6802b026a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/.idea/Py3x Class NS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/Python/1) 31 st May 2024- Introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/Python/2) 03 Jun 2024 - Roadmap Explaination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Py3x Class NS/Python/3) 05 Jun 2024 - Python Basics.py" afterDir="false" />
-    </list>
+    <list default="true" id="f362d832-afce-4966-9f73-17c6802b026a" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +33,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -169,6 +164,36 @@
       <option name="presentableId" value="Default" />
       <updated>1717593864208</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717596389198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717596389198</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717596481135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717596481135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1717596592913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717596592913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
